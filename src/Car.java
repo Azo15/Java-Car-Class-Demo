@@ -15,6 +15,7 @@ public class Car {
         this.otomatica = false;
     }
 
+    
 
 
     public Car(String marka, String model, int year, boolean otomatica) {
